@@ -1,6 +1,8 @@
+
+import "./ItemListContainer.css"
 export const ItemListContainer = ({ greeting }) => {
     return (
-      <div>
+      <div className="centrando">
         <h2>{ greeting }</h2>
       </div>
     )
