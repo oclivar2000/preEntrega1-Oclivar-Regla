@@ -5,9 +5,9 @@ export const CartWidget = () => {
     <div className="carro-y-uno">
       <div className="carrito">
         <p className="tit">CartWidget</p>
-        <h3 className="carro">🛒</h3>
       </div>
       <div className="carrito">
+        <h3 className="carro">🛒</h3>
         <p className="uno">{cantidadItems}</p>
       </div>
     </div>
