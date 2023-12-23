@@ -6,7 +6,7 @@ function App(){
     <>
       <div>
        <NavBar />
-       <ItemListContainer greeting= "Este es un mensaje desde la funcion App" />
+       <ItemListContainer greeting= "Bienvenidos a mi tienda" />
       </div>
       
     </>
