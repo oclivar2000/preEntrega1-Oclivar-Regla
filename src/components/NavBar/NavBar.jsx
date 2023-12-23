@@ -7,10 +7,10 @@ export const NavBar = () => {
       <h3 className="titulo">Tienda</h3>
       <ul className="detalles">
         <li className="producto1">
-            Producto1
+          <a href="#">Producto1</a>
         </li>
         <li className="producto2">
-            Producto2
+          <a href="#">Producto2</a>
         </li>
       </ul>
       <CartWidget />
