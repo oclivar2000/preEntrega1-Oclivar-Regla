@@ -1,10 +1,11 @@
 import { CartWidget } from "../CartWidget/CartWidget"
+import "./NavBar.css"
 
 export const NavBar = () => {
   return (
     <div>
-      <h3>Tienda</h3>
-      <ul>
+      <h3 className="titulo">Tienda</h3>
+      <ul className="detalles">
         <li>
             Producto1
         </li>
