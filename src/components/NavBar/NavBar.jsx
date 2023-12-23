@@ -6,10 +6,10 @@ export const NavBar = () => {
     <div>
       <h3 className="titulo">Tienda</h3>
       <ul className="detalles">
-        <li>
+        <li className="producto1">
             Producto1
         </li>
-        <li>
+        <li className="producto2">
             Producto2
         </li>
       </ul>
